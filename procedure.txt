@@ -1,0 +1,4 @@
+1. Couper l'alimentation
+2. Verifier l'absence de tension
+3. Retirer la batterie
+4. Brancher le chargeur
