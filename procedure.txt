@@ -5,3 +5,4 @@
 5. Controler le niveau d'electrolyte
 6. Placer la batterie au chargeur
 7. Attendre la lumiere verte
+8. Eteindre le chargeur
