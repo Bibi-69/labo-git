@@ -3,3 +3,4 @@
 3. Retirer la batterie
 4. Brancher le chargeur
 5. Controler le niveau d'electrolyte
+6. Placer la batterie au chargeur
