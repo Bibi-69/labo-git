@@ -6,3 +6,4 @@
 6. Placer la batterie au chargeur
 7. Attendre la lumiere verte
 8. Eteindre le chargeur
+9. Retirer la batterie
